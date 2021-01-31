@@ -1,7 +1,7 @@
-### Hi, I'm Tom - or [Statnamara][blog] 📊
+### Hi, I'm Tom - or [Statnamara][website] 📊
 
 [![Website](https://img.shields.io/badge/My%20Blog-Take%20a%20Look!-red)](https://statnamara.wordpress.com/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/statnamara?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/statnamara)
+[![Twitter Follow](https://img.shields.io/twitter/follow/statnamara?style=social)](https://twitter.com/statnamara)
 
 ## I'm a Data Science Student blogging some of my just-for-fun projects
 - 🧑‍💻 I’m currently undertaking my Postgraduate Diploma  
@@ -10,7 +10,7 @@
 
 ### Connect with me:
  
-[<img align="left" alt="Statnamara | Twitter" width="22px" src="https://img.shields.io/twitter/follow/statnamara?style=social" />][twitter]
+[<img align="left" alt="Statnamara | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Statnamara | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Statnamara | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
