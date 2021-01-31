@@ -1,4 +1,4 @@
-### Hi, I'm Tom - or [Statnamara][website] 📊
+### Hi, I'm Tom - or [Statnamara][blog] 📊
 
 [![Website](https://img.shields.io/badge/My%20Blog-Take%20a%20Look!-red)](https://statnamara.wordpress.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/statnamara?style=social)](https://twitter.com/statnamara)
