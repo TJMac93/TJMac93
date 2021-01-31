@@ -18,8 +18,8 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/r.svg" />][blog]
-[<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />][blog]
+[<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />][blog]
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][blog]
 [<img align="left" alt="GGPlot2" width="26px" src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/ggplot2.png" />][blog]
 [<img align="left" alt="Dplyr" width="26px" src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/dplyr.png" />][austin]
 [<img align="left" alt="Shiny" width="26px" src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/shiny.png" />][shiny]
