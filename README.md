@@ -19,11 +19,11 @@
 ### Languages and Tools:
 
 [<img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/r.svg" />][blog]
-[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/Python.svg" />][blog]
+[<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />][blog]
 [<img align="left" alt="GGPlot2" width="26px" src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/ggplot2.png" />][blog]
 [<img align="left" alt="Dplyr" width="26px" src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/dplyr.png" />][austin]
 [<img align="left" alt="Shiny" width="26px" src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/shiny.png" />][shiny]
-[<img align="left" alt="Tableau" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/Tableau.svg" />][tableau]
+[<img align="left" alt="Tableau" width="26px" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" />][tableau]
 
 <br />
 <br />
