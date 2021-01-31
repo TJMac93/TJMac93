@@ -6,7 +6,7 @@
 ## I'm a Data Science Student blogging some of my just-for-fun projects
 - 🧑‍💻 I’m currently undertaking my Postgraduate Diploma  
 - 🥅 2021 Goals: Publish at least a dozen blog posts!
-- 🥁 Fun fact: I also love to play the drums
+- 🥁 About me: I also love to playing the drums and I'm mad about football ⚽
 
 ### Connect with me:
  
@@ -38,6 +38,13 @@
 ➡️ [more blog posts...](https://statnamara.wordpress.com/)
 
 ---
+
+### Spotify Now Playing
+
+
+---
+
+
 
 <details>
   <summary>:zap: GitHub Stats</summary>
