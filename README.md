@@ -33,11 +33,6 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Scraping, Analysing, and Visualising lyrics in R](https://statnamara.wordpress.com/2021/01/26/scraping-analysing-and-visualising-lyrics-in-r/)
-- [Animating goals in R using ggsoccer and gganimate.](https://statnamara.wordpress.com/2020/05/09/animating-goals-in-r-using-ggsoccer-and-gganimate/)
-- [Learning gganimate with the LastFM API](https://statnamara.wordpress.com/2020/04/12/learning-gganimate-with-the-lastfm-api/)
-- [Austin vs Austin](https://statnamara.wordpress.com/2020/02/26/austin-vs-austin/)
-- [Simulating football games in R using xG values](https://statnamara.wordpress.com/2020/02/11/simulating-football-games-in-r-using-xg/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://statnamara.wordpress.com/)
@@ -60,7 +55,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Statnamara's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=TJMac93&show_icons=true&hide_border=true" />
+  <img align="left" alt="Statnamara's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=TJMac93&show_icons=true&hide_border=true&count_private=true" />
 
 </details>
 
