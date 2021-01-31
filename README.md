@@ -8,10 +8,6 @@
 - 🥅 2021 Goals: Publish at least a dozen blog posts!
 - 🥁 Fun fact: I also love to play the drums
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
 ### Connect with me:
  
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -27,7 +23,7 @@
 [<img align="left" alt="GGPlot2" width="26px" src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/ggplot2.png" />][]
 [<img align="left" alt="Dplyr" width="26px" src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/dplyr.png" />][]
 [<img align="left" alt="Shiny" width="26px" src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/shiny.png" />][]
-[<img align="left" alt="Tableau" width="26px" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" />][]
+[<img align="left" alt="Tableau" width="26px" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" />][tableau]
 
 <br />
 <br />
@@ -66,3 +62,4 @@
 [twitter]: https://twitter.com/statnamara
 [instagram]: https://www.instagram.com/statnamara/
 [linkedin]: https://www.linkedin.com/in/tommacn93/
+[tableau]: https://public.tableau.com/profile/tom.mac4560#!/
