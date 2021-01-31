@@ -18,11 +18,11 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="R" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" />][]
-[<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />][]
-[<img align="left" alt="GGPlot2" width="26px" src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/ggplot2.png" />][]
-[<img align="left" alt="Dplyr" width="26px" src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/dplyr.png" />][]
-[<img align="left" alt="Shiny" width="26px" src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/shiny.png" />][]
+[<img align="left" alt="R" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" />][blog]
+[<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />][blog]
+[<img align="left" alt="GGPlot2" width="26px" src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/ggplot2.png" />][blog]
+[<img align="left" alt="Dplyr" width="26px" src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/dplyr.png" />][austin]
+[<img align="left" alt="Shiny" width="26px" src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/shiny.png" />][shiny]
 [<img align="left" alt="Tableau" width="26px" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" />][tableau]
 
 <br />
@@ -63,3 +63,6 @@
 [instagram]: https://www.instagram.com/statnamara/
 [linkedin]: https://www.linkedin.com/in/tommacn93/
 [tableau]: https://public.tableau.com/profile/tom.mac4560#!/
+[shiny]: https://tommac93.shinyapps.io/CA2TomMacNamara/
+[austin]: https://statnamara.wordpress.com/2020/02/26/austin-vs-austin/
+[blog]: https://statnamara.wordpress.com
