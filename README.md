@@ -1,6 +1,6 @@
 ### Hi, I'm Tom - or [Statnamara][blog] 📊
 
-[![Website](https://img.shields.io/badge/My%20Blog-Take%20a%20Look!-red)](https://statnamara.wordpress.com/)
+[![Website](https://img.shields.io/badge/My%20Blog-Take%20A%20Look!-blue?logo=wordpress&style=plastic)](https://statnamara.wordpress.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/statnamara?style=social)](https://twitter.com/statnamara)
 
 ## I'm a Data Science Student blogging some of my just-for-fun projects
@@ -38,19 +38,6 @@
 ➡️ [more blog posts...](https://statnamara.wordpress.com/)
 
 ---
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/Statnamara/build-responsive-website/pull/1) in [Statnamara/build-responsive-website](https://github.com/Statnamara/build-responsive-website)
-2. ❗️ Closed issue [#4](https://github.com/Statnamara/Statnamara-vscode-theme/issues/4) in [Statnamara/Statnamara-vscode-theme](https://github.com/Statnamara/Statnamara-vscode-theme)
-3. 🗣 Commented on [#4](https://github.com/Statnamara/Statnamara-vscode-theme/issues/4) in [Statnamara/Statnamara-vscode-theme](https://github.com/Statnamara/Statnamara-vscode-theme)
-4. 🎉 Merged PR [#7](https://github.com/Statnamara/Statnamara-vscode-theme/pull/7) in [Statnamara/Statnamara-vscode-theme](https://github.com/Statnamara/Statnamara-vscode-theme)
-5. ❗️ Closed issue [#6](https://github.com/Statnamara/Statnamara-vscode-theme/issues/6) in [Statnamara/Statnamara-vscode-theme](https://github.com/Statnamara/Statnamara-vscode-theme)
-<!--END_SECTION:activity-->
-
-</details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
