@@ -44,19 +44,7 @@
 
 ---
 
-### Spotify Now Playing
 
-
----
-
-
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Statnamara's GitHub Stats" src="https://github-readme-stats.Statnamara.vercel.app/api?username=TJMac93&show_icons=true&hide_border=true&count_private=true" />
-
-</details>
 
 [twitter]: https://twitter.com/statnamara
 [instagram]: https://www.instagram.com/statnamara/
