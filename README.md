@@ -19,7 +19,7 @@
 ### Languages and Tools:
 
 [<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />][austin]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][blog]
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][blogpy]
 [<img align="left" alt="GGPlot2" width="26px" src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/ggplot2.png" />][blog]
 [<img align="left" alt="Dplyr" width="26px" src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/dplyr.png" />][austin]
 [<img align="left" alt="Shiny" width="26px" src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/shiny.png" />][shiny]
@@ -53,3 +53,4 @@
 [shiny]: https://tommac93.shinyapps.io/CA2TomMacNamara/
 [austin]: https://statnamara.wordpress.com/2020/02/26/austin-vs-austin/
 [blog]: https://statnamara.wordpress.com
+[blogpy]: https://statnamara.wordpress.com/2021/02/05/finding-the-best-lazy-fantasy-football-team-using-pulp-in-python/
