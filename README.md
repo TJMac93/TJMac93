@@ -5,7 +5,7 @@
 
 ## I'm a Data Science Student blogging some of my just-for-fun projects
 - 🧑‍💻 I’m currently undertaking my Postgraduate Diploma  
-- 🥅 2021 Goals: Publish at least a dozen blog posts!
+- 🥅 2021 Goals: Publish at least a dozen blog posts! [2/12]
 - 🥁 About me: I also love to playing the drums and I'm mad about football ⚽
 
 ### Connect with me:
