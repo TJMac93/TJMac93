@@ -4,8 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/statnamara?style=social)](https://twitter.com/statnamara)
 
 ## I'm a Data Science Student blogging some of my just-for-fun projects
-- 🧑‍💻 I’m currently undertaking my Postgraduate Diploma  
-- 🥅 2021 Goals: Publish at least a dozen blog posts! [2/12]
+- 🧑‍💻 I’m currently undertaking my Master's Degree in Data Analytics
 - 🥁 About me: I also love playing the drums and I'm mad about football ⚽
 
 ### Connect with me:
@@ -18,8 +17,9 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />][austin]
+
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][blogpy]
+[<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />][austin]
 [<img align="left" alt="GGPlot2" width="26px" src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/ggplot2.png" />][blog]
 [<img align="left" alt="Dplyr" width="26px" src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/dplyr.png" />][austin]
 [<img align="left" alt="Shiny" width="26px" src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/shiny.png" />][shiny]
